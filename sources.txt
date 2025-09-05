@@ -8,12 +8,20 @@ Research Sources:
 "The Oldest English Epic" by Francis B. Gummere (Copyrighted 1909)
 "The Prose Edda" by Snorri Sturluson (Copyrighted 2005; Translated by Jesse L. Byock)
 
+- Manuscript Collections
+Cædmon Manuscript (University of Oxford)
+Codex Wormianus (University of Copenhagen)
+Cotton MS Tiberius A III (British Library)
+
 - Software (AI, Translators, etc.)
 ChatGPT
 Google Gemini
 Microsoft Copliot
 
 - Websites
+ac.uk (Connected to the University of Oxford)
+British Library (bl.uk)
+e-pages.dk (Connected to the University of Copenhagen)
 Google (google.com)
 Wikipedia (wikipedia.org)
 Wikisource (wikisource.org)
