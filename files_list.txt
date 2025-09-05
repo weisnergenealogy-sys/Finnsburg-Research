@@ -1,0 +1,9 @@
+List of Files
+beowulf_trans.txt - "Beowulf" (1978 Translation by Albert W. Haley, Jr.) Transcription
+eangles_leads.txt - Leaders of the East Angles
+frisia_geo.txt - Frisia Geographic Data
+germanic_religion.txt - Germanic Paganism Religion Data
+oldengepic_trans.txt - "The Oldest English Epic" by Francis B. Gummere (1909) Transcription
+randerson_trans.txt - "Royal Genealogies" by James Anderson (1732) Transcription
+runes.txt - Germanic Rune Data
+sources.txt - Research Sources
