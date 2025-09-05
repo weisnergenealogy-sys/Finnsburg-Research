@@ -1,11 +1,16 @@
 Germanic Paganism Religion Data
 -Deities-
-Balder/Baldr/Baldur/Palter ('brave, defiant' or 'lord, prince')
+Balder/Baldr/Baldur/Palter ("brave, defiant" or "lord, prince")
 Boe/Bous/Váli
-Donar/Thor/Thunar/Thuner/Thunor
-Freja/Freyia/Freyja/Freya ("(the) lady")
+Donar/Ector/Hector/Thor/Thunar/Thuner/Thunor/Tror ("thunder") [Thunder God]
+Forseti/Forsite
+Frea/Freja/Freyia/Freyja/Freya ("(the) lady")
+Frey/Freyr ("lord")
 Frīg/Frigg
 Heimdall/Heimdallr
-Loki
-Odin
+Loki/Lopt/Loptr/Ulixes/Ulysses [God of Fire]
+Nerthus
+Njord
+Odin/Sann/Thror/Woden/Wotan
 Tīw/Tyr/Týr/Ziu
+Uu [God of Archery and Skiing]
