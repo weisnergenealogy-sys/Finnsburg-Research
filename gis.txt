@@ -1,0 +1,13 @@
+GIS datapoints
+Babelsberg - 52 24 N 13 06 E
+Babelsberg Park - 52 24 19 N 13 05 34 E
+Berlin - 52 31 12 N 13 24 18 E
+Friesland - 53 12 5 N 5 48 0 E
+Hanover - 52 22 N 9 43 E
+Leeuwarden - 53 12 N 5 47 E
+Neddersassen - 52 45 22 N 9 23 35 E
+Ostfriesland - 53 28 12 N 7 29 24 E
+Potsdam - 52 24 02 N 13 03 33 E
+Sassen-Anholt - 52 00 N 11 42 E
+Sneek - 53 01 57 N 05 39 36 E
+State of Brandenburg - 52 21 43 N 13 0 29 E

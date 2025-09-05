@@ -1,4 +1,5 @@
 Tribe Name List
+Asians
 Brondings
 Danes
 Finns
@@ -8,4 +9,9 @@ Geats
 Jutes
 Scyldings
 Scylfings
+Skjoldungs
 Swedes
+Turks
+Volsungs
+Ynglings
+Æsir
