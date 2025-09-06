@@ -1,0 +1,40 @@
+Filename Templates
+*.7z - 7z Format
+*.csv - CSV Format
+*.doc - Microsoft Word Format
+*.ged - GEDCOM Format
+*.gif - GIF Format
+*.html - HTML Format
+*.json - JSON Format
+*.par - Pararchive Format
+*.pdf - PDF Format
+*.png - PNG Format
+*.rtf - RTF Format
+*.svg - SVG Format
+*.tar - Unix Tar Format
+*.txt - Plain Text Format
+*.xls - Microsoft Excel Format
+*.xml - XML Format
+*_arms.svg - Coat of Arms (in SVG)
+*_art.txt - Compiled Articles (in Plain Text)
+*_bio.html - Biographic Articles (in HTML)
+*_bio.txt - Biographic Articles (in Plain Text)
+*_chars.txt - Characters in a Source/Work (in Plain Text)
+*_dict.txt - Dictionary Definitions (in Plain Text)
+*_flag.svg - Flags (in SVG)
+*_genealogy.ged - Genealogical Data (in GEDCOM)
+*_genealogy.txt - Genealogical Data (in Plain Text)
+*_geo.txt - Geographic Data (in Plain Text)
+*_leads.rtf - Tribal Leader Lists (in RTF)
+*_leads.tar - Compiled Tribal Leader Lists Groupings (in Unix Tar)
+*_leads.txt - Tribal Leader Lists (in Plain Text)
+*_metadata.csv - Metadata (in CSV)
+*_metadata.json - Metadata (in JSON)
+*_metadata.tar - Compiled Metadata Groupings (in Unix Tar)
+*_metadata.xls - Metadata (in Microsoft Excel)
+*_metadata.xml - Metadata (in XML)
+*_template.txt - Project Templates (in Plain Text)
+*_trans.7z - Transcriptions Groupings (in 7z)
+*_trans.txt - Transcriptions (in Plain Text)
+*_tribe.txt - Tribal Data (in Plain Text)
+*_words.txt - Word Lists (in Plain Text)

@@ -1,0 +1,12 @@
+Internet Media Type Templates
+application/atom+xml (*.atom)
+application/gml+xml (*.gml)
+application/vnd.familysearch.gedcom (*.ged)
+application/vnd.google-earth.kmz - (*.kmz)
+application/x-7z-compressed - (*.7z)
+application/x-tar (*.tar)
+application/xhtml+xml (*.xht)
+image/gif (*.gif)
+image/png (*.png)
+text/html (*.html)
+text/xml (*.xml)
