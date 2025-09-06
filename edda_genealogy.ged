@@ -19,17 +19,46 @@
 0 @I1@ INDI
 1 NAME /Priam/
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 SEX M
 2 NOTE @N2@
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 FAMS @F1@
 0 @I19@ INDI
 1 NAME /Finn/
+2 NOTE @N21@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+2 SOUR @S4@
+3 PAGE Finn (Frisian) Article
+3 _LINK https://en.wikipedia.org/wiki/Finn_(Frisian)
+3 NOTE https://en.wikipedia.org/wiki/Finn_(Frisian)
+2 SOUR @S4@
+3 PAGE Battle of Finnsburg Article
+3 _LINK https://en.wikipedia.org/wiki/Battle_of_Finnsburg
+3 NOTE https://en.wikipedia.org/wiki/Battle_of_Finnsburg
+2 SOUR @S4@
+3 PAGE Widsith Article
+3 _LINK https://en.wikipedia.org/wiki/Widsith
+3 NOTE https://en.wikipedia.org/wiki/Widsith
 1 SEX M
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+2 SOUR @S4@
+3 PAGE Finn (Frisian) Article
+3 _LINK https://en.wikipedia.org/wiki/Finn_(Frisian)
+3 NOTE https://en.wikipedia.org/wiki/Finn_(Frisian)
+1 TITL King of Frisia
+2 NOTE @N20@
+2 SOUR @S4@
+3 PAGE Battle of Finnsburg Article
+3 _LINK https://en.wikipedia.org/wiki/Battle_of_Finnsburg
+3 NOTE https://en.wikipedia.org/wiki/Battle_of_Finnsburg
 1 FAMS @F19@
 1 FAMC @F18@
 0 @I8@ INDI
@@ -79,46 +108,60 @@
 0 @I21@ INDI
 1 NAME /Voden/
 1 SEX M
-1 EVEN
-2 TYPE Departure
-2 PLAC Turkey
+1 NAME Odin
+2 TYPE aka
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+2 SOUR @S4@
+3 PAGE List of names of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+2 SOUR @S4@
+3 PAGE Ansuz (rune) Article
+3 _LINK https://en.wikipedia.org/wiki/Ansuz_(rune)
+3 NOTE https://en.wikipedia.org/wiki/Ansuz_(rune)
 1 EVEN Saxony
 2 TYPE Arrival
 2 PLAC Saxland
 2 NOTE @N7@
-1 NAME Odin
-2 TYPE aka
-2 SOUR @S4@
-3 PAGE Odin Article
-3 _LINK https://en.wikipedia.org/wiki/Odin
-3 NOTE https://en.wikipedia.org/wiki/Odin
+1 EVEN
+2 TYPE Departure
+2 PLAC Turkey
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
-2 SOUR @S4@
-3 PAGE List of name of Odin Article
-3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
-3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
-1 NAME Wûtan
-2 TYPE aka
-2 NOTE @N14@
-1 NAME ᚢᚦᛁᚾ
-2 TYPE aka
-2 NOTE @N13@
-2 SOUR @S4@
-3 PAGE Odin Article
-3 _LINK https://en.wikipedia.org/wiki/Odin
-3 NOTE https://en.wikipedia.org/wiki/Odin
-1 NAME Wōden
-2 TYPE aka
-2 NOTE @N12@
-2 SOUR @S4@
-3 PAGE Odin Article
-3 _LINK https://en.wikipedia.org/wiki/Odin
-3 NOTE https://en.wikipedia.org/wiki/Odin
+1 TITL King of the Saxons
+2 SOUR @S8@
+3 PAGE Table CCCCLXXX
+1 DEAT
+2 DATE 300
+2 SOUR @S8@
+3 PAGE Table CCCCLXXX
+1 EVEN Jutland
+2 TYPE Arrival
+2 PLAC Reidgotaland
+2 NOTE @N4@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+1 EVEN
+2 TYPE Arrival
+2 PLAC Sweden
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+1 EVEN Reidgotaland
+2 TYPE Arrival
+2 PLAC Jutland
+2 NOTE @N6@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
 1 NAME Óðinn
 2 TYPE aka
 2 NOTE @N11@
@@ -127,29 +170,73 @@
 3 _LINK https://en.wikipedia.org/wiki/Odin
 3 NOTE https://en.wikipedia.org/wiki/Odin
 2 SOUR @S4@
-3 PAGE List of name of Odin Article
+3 PAGE List of names of Odin Article
 3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
 3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
-1 EVEN Reidgotaland
-2 TYPE Arrival
-2 PLAC Jutland
-2 NOTE @N6@
-2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
-3 NOTE @N1@
-1 EVEN
-2 TYPE Arrival
-2 PLAC Sweden
-2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
-3 NOTE @N1@
-1 EVEN Jutland
-2 TYPE Arrival
-2 PLAC Reidgotaland
-2 NOTE @N4@
-2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
-3 NOTE @N1@
+2 SOUR @S7@
+3 PAGE ᚹᛟᛞᛁᚾᚨᛉ Article
+3 _LINK https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1%9A%BE%E1%9A%A8%E1%9B%89
+3 NOTE https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1
+4 CONC %9A%BE%E1%9A%A8%E1%9B%89
+2 SOUR @S7@
+3 PAGE Óðinn Article
+3 _LINK https://en.wiktionary.org/wiki/%C3%93%C3%B0inn
+3 NOTE https://en.wiktionary.org/wiki/%C3%93%C3%B0inn
+1 NAME Wōden
+2 TYPE aka
+2 NOTE @N12@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+2 SOUR @S7@
+3 PAGE Woden Entry
+3 _LINK https://en.wiktionary.org/wiki/Woden
+3 NOTE https://en.wiktionary.org/wiki/Woden
+1 NAME ᚢᚦᛁᚾ
+2 TYPE aka
+2 NOTE @N13@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+2 SOUR @S7@
+3 PAGE ᚹᛟᛞᛁᚾᚨᛉ Article
+3 _LINK https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1%9A%BE%E1%9A%A8%E1%9B%89
+3 NOTE https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1
+4 CONC %9A%BE%E1%9A%A8%E1%9B%89
+1 NAME Wûtan
+2 TYPE aka
+2 NOTE @N14@
+1 NAME Oski
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE List of names of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 NAME Yggr
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE List of names of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 NAME Hnikarr
+2 TYPE aka
+1 NAME Har
+2 TYPE aka
+1 NAME Grim
+2 TYPE aka
+1 NAME Gaut
+2 TYPE aka
+2 NOTE @N15@
+2 SOUR @S4@
+3 PAGE List of names of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+2 SOUR @S4@
+3 PAGE Gaut Article
+3 _LINK https://en.wikipedia.org/wiki/Gaut
+3 NOTE https://en.wikipedia.org/wiki/Gaut
 1 NAME Odinn
 2 TYPE aka
 2 NOTE @N19@
@@ -157,35 +244,60 @@
 3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
 3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
 3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
-1 NAME Gaut
+1 NAME Goti
 2 TYPE aka
-2 NOTE @N15@
+2 NOTE @N23@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+1 NAME Wuotan
+2 TYPE aka
 2 SOUR @S4@
-3 PAGE List of name of Odin Article
+3 PAGE List of names of Odin Article
 3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
 3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 NAME Óss
+2 TYPE aka
+2 NOTE @N24@
 2 SOUR @S4@
-3 PAGE Gaut Article
-3 _LINK https://en.wikipedia.org/wiki/Gaut
-3 NOTE https://en.wikipedia.org/wiki/Gaut
-1 NAME Grim
+3 PAGE Ansuz (rune) Article
+3 _LINK https://en.wikipedia.org/wiki/Ansuz_(rune)
+3 NOTE https://en.wikipedia.org/wiki/Ansuz_(rune)
+1 NAME Woden
 2 TYPE aka
-1 NAME Har
+2 NOTE @N25@
+2 SOUR @S7@
+3 PAGE Woden Entry
+3 _LINK https://en.wiktionary.org/wiki/Woden
+3 NOTE https://en.wiktionary.org/wiki/Woden
+2 SOUR @S7@
+3 PAGE ᚹᛟᛞᛁᚾᚨᛉ Article
+3 _LINK https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1%9A%BE%E1%9A%A8%E1%9B%89
+3 NOTE https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1
+4 CONC %9A%BE%E1%9A%A8%E1%9B%89
+2 SOUR @S8@
+3 PAGE Table CCCCLXXX
+1 NAME *Wōdanaz
 2 TYPE aka
-1 NAME Hnikarr
+2 NOTE @N26@
+2 SOUR @S7@
+3 PAGE Reconstruction:Proto-Germanic/Wōdanaz Article
+3 _LINK https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/W%C5%8Ddanaz
+3 NOTE https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/W%C5%8Dda
+4 CONC naz
+1 NAME ᚹᛟᛞᛁᚾᚨᛉ
 2 TYPE aka
-1 NAME Yggr
+2 NOTE @N27@
+2 SOUR @S7@
+3 PAGE ᚹᛟᛞᛁᚾᚨᛉ Article
+3 _LINK https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1%9A%BE%E1%9A%A8%E1%9B%89
+3 NOTE https://en.wiktionary.org/wiki/%E1%9A%B9%E1%9B%9F%E1%9B%9E%E1%9B%81%E1
+4 CONC %9A%BE%E1%9A%A8%E1%9B%89
+1 NAME Bodo
 2 TYPE aka
-2 SOUR @S4@
-3 PAGE List of name of Odin Article
-3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
-3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
-1 NAME Oski
-2 TYPE aka
-2 SOUR @S4@
-3 PAGE List of name of Odin Article
-3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
-3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+2 NOTE @N28@
+2 SOUR @S8@
+3 PAGE Table CCCCLXXX
 1 FAMS @F21@
 1 FAMC @F20@
 0 @I10@ INDI
@@ -193,6 +305,19 @@
 1 SEX M
 1 FAMS @F10@
 1 FAMC @F9@
+0 @I29@ INDI
+1 NAME /Gautrekr/
+2 NOTE @N22@
+2 SOUR @S4@
+3 PAGE Gautrekr Article
+3 _LINK https://en.wikipedia.org/wiki/Gautrekr
+3 NOTE https://en.wikipedia.org/wiki/Gautrekr
+1 SEX M
+2 SOUR @S4@
+3 PAGE Gautrekr Article
+3 _LINK https://en.wikipedia.org/wiki/Gautrekr
+3 NOTE https://en.wikipedia.org/wiki/Gautrekr
+1 FAMC @F23@
 0 @I18@ INDI
 1 NAME /Gudolf/
 1 SEX M
@@ -236,17 +361,17 @@
 1 NAME /Sibyl/
 2 NOTE @N8@
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 SEX F
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 NAME Sif
 2 TYPE aka
 2 NOTE @N9@
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 FAMS @F3@
 0 @I12@ INDI
@@ -303,12 +428,6 @@
 3 PAGE Gaut Article
 3 _LINK https://en.wikipedia.org/wiki/Gaut
 3 NOTE https://en.wikipedia.org/wiki/Gaut
-1 TITL King of [Need More Details]
-2 NOTE @N18@
-2 SOUR @S6@
-3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
-3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
-3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
 1 NAME Gauti
 2 TYPE aka
 2 SOUR @S4@
@@ -319,51 +438,79 @@
 3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
 3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
 3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 TITL King of [Need More Details]
+2 NOTE @N18@
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
 1 FAMS @F23@
 1 FAMC @F21@
 0 @I14@ INDI
 1 NAME /Heremod/
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 SEX M
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 FAMS @F14@
 1 FAMC @F13@
 0 @I3@ INDI
 1 NAME /Tror/
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 SEX M
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 NAME Thor
 2 TYPE aka
 2 NOTE @N3@
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
-3 NOTE @N1@
-1 NAME Donar
-2 TYPE aka
-2 NOTE @N10@
-2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 NAME Þórr
 2 TYPE aka
 2 NOTE @N5@
 2 SOUR @S1@
-3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+1 NAME Donar
+2 TYPE aka
+2 NOTE @N10@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
 3 NOTE @N1@
 1 FAMS @F3@
 1 FAMC @F2@
 0 @I22@ INDI
 1 NAME /Frigida/
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
 1 SEX F
+2 SOUR @S4@
+3 PAGE Frigg Article
+3 _LINK https://en.wikipedia.org/wiki/Frigg
+3 NOTE https://en.wikipedia.org/wiki/Frigg
+1 NAME Frigg
+2 TYPE aka
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Skaldskaparmal: Poetic References from Skaldskaparmal, Glossary of Names
+3 NOTE @N1@
+2 SOUR @S4@
+3 PAGE Frigg Article
+3 _LINK https://en.wikipedia.org/wiki/Frigg
+3 NOTE https://en.wikipedia.org/wiki/Frigg
+1 NAME Frīa
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE Frigg Article
+3 _LINK https://en.wikipedia.org/wiki/Frigg
+3 NOTE https://en.wikipedia.org/wiki/Frigg
 1 FAMS @F21@
 1 FAMC @F22@
 0 @I11@ INDI
@@ -430,6 +577,8 @@
 1 HUSB @I25@
 1 CHIL @I26@
 2 _FREL Natural
+1 CHIL @I29@
+2 _FREL Natural
 0 @F12@ FAM
 1 HUSB @I12@
 1 CHIL @I13@
@@ -474,6 +623,11 @@
 1 HUSB @I11@
 1 CHIL @I12@
 2 _FREL Natural
+0 @S7@ SOUR
+1 TITL Wiktionary
+0 @S8@ SOUR
+1 AUTH James Anderson
+1 TITL Royal Genealogies
 0 @S6@ SOUR
 1 TITL Germanic Mythology
 0 @S1@ SOUR
@@ -484,6 +638,68 @@
 2 CONC Translated by Jesse L. Byock
 0 @S4@ SOUR
 1 TITL Wikipedia
+0 @N1@ NOTE
+1 CONC Prologue 3 lists a genealogy from Priam to Odin.
+2 CONT Prologue 4 marks Odin's journey from Turkey to Saxland.
+2 CONT Prologue 5 marks Odin's journey from Saxland to Reidgotaland to Sweden
+2 CONC .
+2 CONT Glossary of Names gives the translated names in Old Icelandic.
+0 @N2@ NOTE
+1 CONC Priam was described as "the chief king" in Byock's translation of "Th
+2 CONC e Prose Edda."
+0 @N3@ NOTE
+1 CONC Byock's translation identified Tror with Thor. In that translation's i
+2 CONC ntroduction, Thor was the "second major god." Thor was mentioned a
+2 CONC s a god for "farmers and seamen." Thor also spawned names connected ba
+2 CONC ck to him: Thorgerd, Thorsness, and Thorsteinn.
+0 @N4@ NOTE
+1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
+2 CONC d.
+0 @N5@ NOTE
+1 CONC Byock's translation of "The Prose Edda" listed Thor's name in Old Icel
+2 CONC andic.
+0 @N6@ NOTE
+1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
+2 CONC d.
+0 @N7@ NOTE
+1 CONC Prologue 4 of Byock's translation of "The Prose Edda" stated that Odi
+2 CONC n was in Saxland for "a long time."
+0 @N8@ NOTE
+1 CONC Byock's Translation of "The Prose Edda" made word that Sif's ancestr
+2 CONC y is unknown.
+0 @N9@ NOTE
+1 CONC Byock's translation of "The Prose Edda" recorded that Sibyl was also k
+2 CONC nown as Sif.
+0 @N10@ NOTE
+1 CONC In the introduction to Byock's Translation of "The Prose Edda," Thor w
+2 CONC as also known as Donar, in southern Germanic lands.
+0 @N11@ NOTE
+1 CONC Wikipedia notes that Óðinn is Old Norse.
+2 CONT
+2 CONT Wiktionary backs that claim. Wiktionary also places Óðinn as Icelandic
+2 CONC .
+0 @N12@ NOTE
+1 CONC Wikipedia notes that Wōden is Old English.
+2 CONT Wiktionary agrees, even providing a variant without the macron.
+0 @N13@ NOTE
+1 CONC Wikipedia notes that ᚢᚦᛁᚾ is Runic. This was recorded on the Ribe Skul
+2 CONC l Fragment.
+2 CONT
+2 CONT Wiktionary has mentioned that ᚢᚦᛁᚾ is Old Norse.
+0 @N14@ NOTE
+1 CONC Wikipedia notes Wûtan is Old Bavarian.
+0 @N15@ NOTE
+1 CONC Wikipedia mentions that Gaut was the name of an ancestor or god to th
+2 CONC e Geats.
+0 @N16@ NOTE
+1 CONC Wikipedia notes that Gautr was one of Odin's sons. This makes a confus
+2 CONC ion over if Gautr is Odin or his son.
+0 @N17@ NOTE
+1 CONC In Germanic Mythology's side-by-side view of "The Saga of Bosi and Her
+2 CONC raud," Hring was a king ruling over East Gautland.
+0 @N18@ NOTE
+1 CONC Germanic Mythology's side-by-side view of "The Saga of Bosi and Herrau
+2 CONC nd" does not tell where Gauti was king.
 0 @N19@ NOTE
 1 CONC "The Saga of Bosi and Herraud," on the Germanic Mythology website, men
 2 CONC tions an Odinn as the father of Gauti.
@@ -492,60 +708,36 @@
 2 CONC a of Bosi and Herraud" mentioned Odinn as a "King in Sweden" and his A
 2 CONC sian origins. Odin came to Sweden from Turkey in "The Prose Edda." Als
 2 CONC o Odinn is very similar to Óðinn, one of Odin's aliases.
-0 @N17@ NOTE
-1 CONC In Germanic Mythology's side-by-side view of "The Saga of Bosi and Her
-2 CONC raud," Hring was a king ruling over East Gautland.
-0 @N15@ NOTE
-1 CONC Wikipedia mentions that Gaut was the name of an ancestor or god to th
-2 CONC e Geats.
-0 @N13@ NOTE
-1 CONC Wikipedia notes that ᚢᚦᛁᚾ is Runic. This was recorded on the Ribe Skul
-2 CONC l Fragment.
-0 @N11@ NOTE
-1 CONC Wikipedia notes that Óðinn is Old Norse.
-0 @N9@ NOTE
-1 CONC Byock's translation of "The Prose Edda" recorded that Sibyl was also k
-2 CONC nown as Sif.
-0 @N7@ NOTE
-1 CONC Prologue 4 of Byock's translation of "The Prose Edda" stated that Odi
-2 CONC n was in Saxland for "a long time."
-0 @N5@ NOTE
-1 CONC Byock's translation of "The Prose Edda" listed Thor's name in Old Icel
-2 CONC andic.
-0 @N3@ NOTE
-1 CONC Byock's translation identified Tror with Thor. In that translation's i
-2 CONC ntroduction, Thor was the "second major god." Thor was mentioned a
-2 CONC s a god for "farmers and seamen." Thor also spawned names connected ba
-2 CONC ck to him: Thorgerd, Thorsness, and Thorsteinn.
-0 @N1@ NOTE
-1 CONC Prologue 3 lists a genealogy from Priam to Odin.
-2 CONT Prologue 4 marks Odin's journey from Turkey to Saxland.
-2 CONT Prologue 5 marks Odin's journey from Saxland to Reidgotaland to Sweden
-2 CONC .
-2 CONT Glossary of Names gives the translated names in Old Icelandic.
-0 @N18@ NOTE
-1 CONC Germanic Mythology's side-by-side view of "The Saga of Bosi and Herrau
-2 CONC nd" does not tell where Gauti was king.
-0 @N16@ NOTE
-1 CONC Wikipedia notes that Gautr was one of Odin's sons. This makes a confus
-2 CONC ion over if Gautr is Odin or his son.
-0 @N14@ NOTE
-1 CONC Wikipedia notes Wûtan is Old Bavarian.
-0 @N12@ NOTE
-1 CONC Wikipedia notes that Wōden is Old English.
-0 @N10@ NOTE
-1 CONC In the introduction to Byock's Translation of "The Prose Edda," Thor w
-2 CONC as also known as Donar, in southern Germanic lands.
-0 @N8@ NOTE
-1 CONC Byock's Translation of "The Prose Edda" made word that Sif's ancestr
-2 CONC y is unknown.
-0 @N6@ NOTE
-1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
-2 CONC d.
-0 @N4@ NOTE
-1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
-2 CONC d.
-0 @N2@ NOTE
-1 CONC Priam was described as "the chief king" in Byock's translation of "Th
-2 CONC e Prose Edda."
+0 @N20@ NOTE
+1 CONC While Byock's translation of "The Prose Edda" has only brief genealogi
+2 CONC cal information, Wikipedia has noted a King Finn of Frisia that coul
+2 CONC d be this Finn. Additional research is needed for confirmation.
+0 @N21@ NOTE
+1 CONC Wikipedia mentions a "Finn, son of Folcwalda" was ruling the Frisians
+2 CONC . Folcwalda's identity is unknown, but could be one of the ancestors i
+2 CONC n this tree.
+0 @N22@ NOTE
+1 CONC Wikipedia noted that Gautrekr was the son of Gauti.
+0 @N23@ NOTE
+1 CONC Byock's translation of "The Prose Edda" contains a bit of informatio
+2 CONC n about Gotland and Gautland. Odin had another alias in Goti, since i
+2 CONC t was "one of the names applied to Odin." Gaut and Goti gave their nam
+2 CONC es to Gautland and Gotland. The translation confirms this with the phr
+2 CONC ase "since both...get their names from...Odin."
+0 @N24@ NOTE
+1 CONC Wikipedia notes that Óss is Old Icelandic. Óss is referencing Odin i
+2 CONC n "The Icelandic Rune Poem."
+0 @N25@ NOTE
+1 CONC Wiktionary listed two variants of Odin in the Woden entry: Woden and W
+2 CONC ōden.
+0 @N26@ NOTE
+1 CONC Wiktionary provided a Proto-Germanic reconstruction of Odin. It state
+2 CONC d that Odin or Woden was the name the reconstruction was associated wi
+2 CONC th.
+0 @N27@ NOTE
+1 CONC Wiktionary said that ᚹᛟᛞᛁᚾᚨᛉ was Proto-Norse.
+0 @N28@ NOTE
+1 CONC Anderson's "Royal Genealogies" connects Bodo to Woden. The genealogy i
+2 CONC s not the same as in "The Prose Edda," but it does provide a date to O
+2 CONC din's possible death.
 0 TRLR

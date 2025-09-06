@@ -33,6 +33,7 @@ Finnsburg
 Finnsburh
 France
 Fredrikstad Kommune
+French Polynesia
 French Republic
 Friesland
 Frisia
@@ -54,11 +55,14 @@ Helvetic Republic
 Hoy
 Hronn ("Wave")
 Iceland
+Ilion
+Italian Republic
 Jan Mayen
 Jotunheim ("Giant Land")
 Jutland
 Kvaløya ("Whale Island")
 Lochau
+Lombardy
 Lower Germania
 Lutherstadt Wittenberg
 Maria Laach Abbey
@@ -70,11 +74,13 @@ Noatun ("Enclosure for Ships")
 Nordlaguna
 North Sea
 Norway
+Oceania
 Orkney Isles
 Oslo
 Ostfriesland
 Oude Rijn
 Overijssel
+Piedmont
 Princely Abbey of Fulda
 Province of Halle-Merseburg
 Reidgotaland
@@ -91,6 +97,7 @@ Snowland
 Sommarøya
 South Holland
 Southern Germany
+Status Civitatis Vaticanae
 Store Sommarøya
 Svalbard
 Svartfjellet
@@ -101,12 +108,15 @@ Thrudheim
 Thrudvangar ("Place of Strength", "Plains of Strength")
 Thrymheim ("Noisy Home", "Thunder Home")
 Thuringia
+Troad
+Troas
 Troms og Finnmark County
 Tromssa
 Troy
 Turku ("Market Place")
 Valhalla ("Hall of the Slain")
 Valholl
+Vatican City State
 Wallonia
 Walloon Region
 West Spitsbergen
@@ -116,3 +126,6 @@ Zealand
 Zuid-Holland
 Þöll
 Þyn ("Frothing")
+Αγία Σοφία
+Τροία
+Ωστία
