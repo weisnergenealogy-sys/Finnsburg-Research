@@ -2,20 +2,42 @@ Tribe Name List
 Ascanians
 Asians
 Belgae
+Bretoned
+Bretons
+Britons
 Brondings
+Celtic Britons
 Chatti
+Cymry
 Danes
+Fianna
 Finns
 Fir Bolg
+Forest Finns
 Franks
 Frisians
+Gaels
+Galatians
+Galli
 Gauls
 Geats
+Gewisse
 Icelanders
 Jutes
+Laplanders
+Lapps
 Mediomatrici
+Roma
+Romani
+Romany
+Saami
+Sami
+Scoti
+Scotti
+Scottish Travellers
 Scyldings
 Scylfings
+Sinti
 Skjoldungs
 Suavi
 Suebi
@@ -25,5 +47,9 @@ Swedes
 Treveri
 Turks
 Volsungs
+Walloons
+Welsh
 Ynglings
 Æsir
+Γαλάται
+Σκόττοι

@@ -1,5 +1,6 @@
 Frisians Tribe
-Languages: East Frisian, Middle Frisian, Old Frisian, Stadsfries Dutch, West Old Frisian
-Related Tribes: Angles, Frisiavones, Frisii, Saxons
+Aliases: Fresen, Friezen
+Languages: Anglo-Frisian, East Frisian, East Frisian Low Saxon, Frisian, Middle Frisian, North Frisian, Old Frisian, Saterland Frisian, Stadsfries Dutch, Upgant Frisian, West Old Frisian
+Related Tribes: Angles, Danes, Dutch, Frisiavones, Frisii, Germans, Saxons
 Religion: Germanic Paganism (Odin, Thor)
-Toponyms: East Frisia, Friesland, Frisia, North Frisia
+Toponyms: East Frisia, Friesland, Frisia, Nordfriesland, North Frisia

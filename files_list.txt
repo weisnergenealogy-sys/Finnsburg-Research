@@ -1,9 +1,29 @@
 List of Files
+angles_tribe.txt - Angles Tribal Dataset
+beowulf_chars.txt "Beowulf" Character List
 beowulf_trans.txt - "Beowulf" (1978 Translation by Albert W. Haley, Jr.) Transcription
+burgundians_tribe.txt - Burgudian Tribal Dataset
+copying.txt - License File
 eangles_leads.txt - Leaders of the East Angles
+edda_chars.txt - "The Prose Edda" Character List
+esaxons_leads.txt - Leaders of the East Saxons
+finn_dict.txt - Dictionary Term: Finn
+franks_tribe.txt - Franks Tribal Dataset
 frisia_geo.txt - Frisia Geographic Data
+frisians_leads.txt - Leaders of the Frisians
 germanic_religion.txt - Germanic Paganism Religion Data
+gis.txt - GIS Datapoints
+iconography.txt - Iconography
+nordic_genealogy.txt - Genealogy (According to "The Illustrated Encyclopedia of Mythology of the World")
+oice_words.txt - Old Icelandic Word List
 oldengepic_trans.txt - "The Oldest English Epic" by Francis B. Gummere (1909) Transcription
 randerson_trans.txt - "Royal Genealogies" by James Anderson (1732) Transcription
+readme.txt - Project Readme
 runes.txt - Germanic Rune Data
+saxons_tribe.txt - Saxons Tribal Dataset
 sources.txt - Research Sources
+srcs.csv - Sources Table
+srcs.json - Source Metadata
+tror_bio.txt - Biographic Article on Tror
+widsith_art.txt - Widsith Dataset Article
+wsax_words.txt - West Saxon Old English Word List

@@ -4,13 +4,17 @@ Affrica
 Amsvartnir ("Pitch Black")
 Annaburg
 Arctic Ocean
+Armorica
 Asgard
 Asia
 Austlandet
+Barentshavet
+Bear Island
 Bishopric of Basel
 Bistum Basel
 Borg
 Canton of Jura
+Carolingian Empire
 Cluny Abbey
 Corpo Helvetico
 Den Haag
@@ -22,6 +26,8 @@ Electoral Saxony
 Electorate of Saxony
 Engla Land ("Land of the Angles")
 Finland
+Finnmark
+Finnmarkun Fylkki
 Finnsburg
 Finnsburh
 France
@@ -30,26 +36,35 @@ French Republic
 Friesland
 Frisia
 Gelderland
+Germania
+Germania Inferior ("Lower Germania")
 Germany
 Giant Land
 Glemmen
 Gotland
 Grad ("Greedy")
+Greenland
+Greenland Sea
+Hammerfest
 Hel
 Helvetic Republic
 Hoy
 Hronn ("Wave")
 Iceland
+Jan Mayen
 Jotunheim ("Giant Land")
 Jutland
-Lutherstadt Wittenberg
+Kvaløya ("Whale Island")
 Lochau
+Lower Germania
+Lutherstadt Wittenberg
 Maria Laach Abbey
 Matilo
 Metz
 Midgard ("Middle Earth", "Middle Yard," "The Middle Enclosure")
 Netherlands
 Noatun ("Enclosure for Ships")
+Nordlaguna
 North Sea
 Norway
 Orkney Isles
@@ -57,8 +72,10 @@ Oslo
 Ostfriesland
 Oude Rijn
 Overijssel
+Princely Abbey of Fulda
 Province of Halle-Merseburg
 Reidgotaland
+Romsa
 Sarpsborg
 Saxaland
 Saxland
@@ -68,8 +85,12 @@ Shetland Islands
 Sigtun
 Sjaelland
 Snowland
+Sommarøya
 South Holland
 Southern Germany
+Store Sommarøya
+Svalbard
+Svartfjellet
 The Hague
 The Netherlands
 Thracia
@@ -77,10 +98,16 @@ Thrudheim
 Thrudvangar ("Place of Strength", "Plains of Strength")
 Thrymheim ("Noisy Home", "Thunder Home")
 Thuringia
+Troms og Finnmark County
+Tromssa
 Troy
 Turku ("Market Place")
 Valhalla ("Hall of the Slain")
 Valholl
+Wallonia
+Walloon Region
+West Spitsbergen
+Weyprecht Glacier
 Wittenberg
 Zealand
 Zuid-Holland

@@ -1,0 +1,14 @@
+Latin Script Data
+A - A
+A̱ - A with Macron Below/Uppercase A with Macron Below
+Æ - Ash/Uppercase Ash/Æsc/Æsh
+æ - Ash/Lowercase Ash/Small Letter Ash
+◌́ - Combining Acute Diacritic
+◌̃ - Combining Tilde Diacritic
+W - Double-U/Wé
+E - E
+F - Ef/Eff
+ñ - Eñe/Lowercase Eñe/N with Tilde
+u̱ - Lowercase U with Macron Below
+U - U
+Z - Zed/Zee
