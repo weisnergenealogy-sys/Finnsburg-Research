@@ -17,6 +17,7 @@ Canton of Jura
 Carolingian Empire
 Cluny Abbey
 Corpo Helvetico
+Dacia
 Den Haag
 Denmark
 East Frisia
@@ -36,11 +37,13 @@ French Republic
 Friesland
 Frisia
 Gelderland
+Gepidia
 Germania
 Germania Inferior ("Lower Germania")
 Germany
 Giant Land
 Glemmen
+Gothia
 Gotland
 Grad ("Greedy")
 Greenland
