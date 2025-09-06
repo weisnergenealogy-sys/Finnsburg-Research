@@ -1,0 +1,6 @@
+Uniform Type Identifier Templates
+com.compuserve.gif (*.gif)
+com.microsoft.waveform-audio (*.wav)
+org.gnu.gnu-zip-archive (*.gzip)
+public.aifc-audio (*.aifc)
+public.png (*.png)

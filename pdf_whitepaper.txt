@@ -1,0 +1,5 @@
+Whitepaper for the PDF Format
+File Extension: *.pdf
+Magic Number: %PDF
+Media Type: application/x-pdf
+Standards: ISO 32000-2 (PDF 2.0), ITU T.88 (JBIG2)

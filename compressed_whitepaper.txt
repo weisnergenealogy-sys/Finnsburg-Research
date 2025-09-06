@@ -1,0 +1,10 @@
+Whitepaper for the Compressed Format
+Audio Codec: none
+Compression Type: LZW
+Extensions: DEFLATE (Compression), LZ78 (Compression), LZMA (Compression)
+File Extension: *.Z
+Media Type: application/x-compress
+Patents: US4558302A (Expired)
+Standards: RFC 1951 (DEFLATE)
+Uses Compression: true
+Video Codec: none

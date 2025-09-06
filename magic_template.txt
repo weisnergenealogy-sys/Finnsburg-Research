@@ -1,0 +1,6 @@
+Magic Number Templates
+1F 8B - GZIP Format
+25 50 44 46 (%PDF) - PDF Format
+49 49 2A 00 - TIFF Format
+89 50 4E 47 0D 0A 1A 0A - PNG Format
+FF D8 FF - JPEG Format

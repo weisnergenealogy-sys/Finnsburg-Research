@@ -1,0 +1,4 @@
+Whitepaper for the TIFF Format
+File Extension: *.tiff
+Magic Number: 49 49 2A 00
+Media Type: image/tiff
