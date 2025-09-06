@@ -1,0 +1,551 @@
+﻿0 HEAD
+1 SOUR FTM
+2 VERS 25.0.0.164
+2 NAME Family Tree Maker for Mac
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 DATE 6 SEP 2025
+1 CHAR UTF-8
+1 FILE edda_genealogy.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+1 NAME Not Given
+0 @I1@ INDI
+1 NAME /Priam/
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 SEX M
+2 NOTE @N2@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 FAMS @F1@
+0 @I19@ INDI
+1 NAME /Finn/
+1 SEX M
+1 FAMS @F19@
+1 FAMC @F18@
+0 @I8@ INDI
+1 NAME /Moda/
+1 SEX M
+1 FAMS @F8@
+1 FAMC @F7@
+0 @I27@ INDI
+1 NAME /Sylgja/
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 SEX F
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 FAMS @F24@
+1 FAMC @F25@
+0 @I16@ INDI
+1 NAME /Biaf/
+1 SEX M
+1 FAMS @F16@
+1 FAMC @F15@
+0 @I5@ INDI
+1 NAME /Einridi/
+1 SEX M
+1 FAMS @F5@
+1 FAMC @F4@
+0 @I24@ INDI
+1 NAME /Munon/
+1 SEX M
+1 NAME Mennon
+2 TYPE aka
+1 FAMS @F2@
+0 @I13@ INDI
+1 NAME /Itrmann/
+1 SEX M
+1 FAMS @F13@
+1 FAMC @F12@
+0 @I2@ INDI
+1 NAME /Troan/
+1 SEX F
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I21@ INDI
+1 NAME /Voden/
+1 SEX M
+1 EVEN
+2 TYPE Departure
+2 PLAC Turkey
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 EVEN Saxony
+2 TYPE Arrival
+2 PLAC Saxland
+2 NOTE @N7@
+1 NAME Odin
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+2 SOUR @S4@
+3 PAGE List of name of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 NAME Wûtan
+2 TYPE aka
+2 NOTE @N14@
+1 NAME ᚢᚦᛁᚾ
+2 TYPE aka
+2 NOTE @N13@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+1 NAME Wōden
+2 TYPE aka
+2 NOTE @N12@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+1 NAME Óðinn
+2 TYPE aka
+2 NOTE @N11@
+2 SOUR @S4@
+3 PAGE Odin Article
+3 _LINK https://en.wikipedia.org/wiki/Odin
+3 NOTE https://en.wikipedia.org/wiki/Odin
+2 SOUR @S4@
+3 PAGE List of name of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 EVEN Reidgotaland
+2 TYPE Arrival
+2 PLAC Jutland
+2 NOTE @N6@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 EVEN
+2 TYPE Arrival
+2 PLAC Sweden
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 EVEN Jutland
+2 TYPE Arrival
+2 PLAC Reidgotaland
+2 NOTE @N4@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 NAME Odinn
+2 TYPE aka
+2 NOTE @N19@
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 NAME Gaut
+2 TYPE aka
+2 NOTE @N15@
+2 SOUR @S4@
+3 PAGE List of name of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+2 SOUR @S4@
+3 PAGE Gaut Article
+3 _LINK https://en.wikipedia.org/wiki/Gaut
+3 NOTE https://en.wikipedia.org/wiki/Gaut
+1 NAME Grim
+2 TYPE aka
+1 NAME Har
+2 TYPE aka
+1 NAME Hnikarr
+2 TYPE aka
+1 NAME Yggr
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE List of name of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 NAME Oski
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE List of name of Odin Article
+3 _LINK https://en.wikipedia.org/wiki/List_of_names_of_Odin
+3 NOTE https://en.wikipedia.org/wiki/List_of_names_of_Odin
+1 FAMS @F21@
+1 FAMC @F20@
+0 @I10@ INDI
+1 NAME /Seskef/
+1 SEX M
+1 FAMS @F10@
+1 FAMC @F9@
+0 @I18@ INDI
+1 NAME /Gudolf/
+1 SEX M
+1 FAMS @F18@
+1 FAMC @F17@
+0 @I7@ INDI
+1 NAME /Vingenir/
+1 SEX M
+1 FAMS @F7@
+1 FAMC @F6@
+0 @I26@ INDI
+1 NAME /Hring/
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 SEX M
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 TITL King of East Gautland
+2 NOTE @N17@
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 FAMS @F24@
+1 FAMC @F23@
+0 @I15@ INDI
+1 NAME /Skjaldun/
+1 SEX M
+1 FAMS @F15@
+1 FAMC @F14@
+0 @I4@ INDI
+1 NAME /Loridi/
+1 SEX M
+1 FAMS @F4@
+1 FAMC @F3@
+0 @I23@ INDI
+1 NAME /Sibyl/
+2 NOTE @N8@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 SEX F
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 NAME Sif
+2 TYPE aka
+2 NOTE @N9@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 FAMS @F3@
+0 @I12@ INDI
+1 NAME /Athra/
+1 SEX M
+1 FAMS @F12@
+1 FAMC @F11@
+0 @I20@ INDI
+1 NAME /Friallaf/
+1 SEX M
+1 FAMS @F20@
+1 FAMC @F19@
+0 @I9@ INDI
+1 NAME /Magi/
+1 SEX M
+1 FAMS @F9@
+1 FAMC @F8@
+0 @I28@ INDI
+1 NAME /Seafarer/
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 SEX M
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 TITL Earl of Smaland
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 FAMS @F25@
+0 @I17@ INDI
+1 NAME /Jat/
+1 SEX M
+1 FAMS @F17@
+1 FAMC @F16@
+0 @I6@ INDI
+1 NAME /Vingethor/
+1 SEX M
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I25@ INDI
+1 NAME /Gautr/
+2 NOTE @N16@
+2 SOUR @S4@
+3 PAGE Gaut Article
+3 _LINK https://en.wikipedia.org/wiki/Gaut
+3 NOTE https://en.wikipedia.org/wiki/Gaut
+1 SEX M
+2 SOUR @S4@
+3 PAGE Gaut Article
+3 _LINK https://en.wikipedia.org/wiki/Gaut
+3 NOTE https://en.wikipedia.org/wiki/Gaut
+1 TITL King of [Need More Details]
+2 NOTE @N18@
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 NAME Gauti
+2 TYPE aka
+2 SOUR @S4@
+3 PAGE Gaut Article
+3 _LINK https://en.wikipedia.org/wiki/Gaut
+3 NOTE https://en.wikipedia.org/wiki/Gaut
+2 SOUR @S6@
+3 PAGE The Saga of Bosi and Herraud Side-by-Side Translation
+3 _LINK http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+3 NOTE http://www.germanicmythology.com/FORNALDARSAGAS/BosaSagaHardman.html
+1 FAMS @F23@
+1 FAMC @F21@
+0 @I14@ INDI
+1 NAME /Heremod/
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 SEX M
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 FAMS @F14@
+1 FAMC @F13@
+0 @I3@ INDI
+1 NAME /Tror/
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 SEX M
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 NAME Thor
+2 TYPE aka
+2 NOTE @N3@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 NAME Donar
+2 TYPE aka
+2 NOTE @N10@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 NAME Þórr
+2 TYPE aka
+2 NOTE @N5@
+2 SOUR @S1@
+3 PAGE Introduction, Prologue 3-5, Glossary of Names
+3 NOTE @N1@
+1 FAMS @F3@
+1 FAMC @F2@
+0 @I22@ INDI
+1 NAME /Frigida/
+1 SEX F
+1 FAMS @F21@
+1 FAMC @F22@
+0 @I11@ INDI
+1 NAME /Bedvig/
+1 SEX M
+1 FAMS @F11@
+1 FAMC @F10@
+0 @F19@ FAM
+1 HUSB @I19@
+1 CHIL @I20@
+2 _FREL Natural
+0 @F8@ FAM
+1 HUSB @I8@
+1 CHIL @I9@
+2 _FREL Natural
+0 @F16@ FAM
+1 HUSB @I16@
+1 CHIL @I17@
+2 _FREL Natural
+0 @F5@ FAM
+1 HUSB @I5@
+1 CHIL @I6@
+2 _FREL Natural
+0 @F24@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+0 @F13@ FAM
+1 HUSB @I13@
+1 CHIL @I14@
+2 _FREL Natural
+0 @F2@ FAM
+1 HUSB @I24@
+1 WIFE @I2@
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I25@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM
+1 HUSB @I10@
+1 CHIL @I11@
+2 _FREL Natural
+0 @F18@ FAM
+1 HUSB @I18@
+1 CHIL @I19@
+2 _FREL Natural
+0 @F7@ FAM
+1 HUSB @I7@
+1 CHIL @I8@
+2 _FREL Natural
+0 @F15@ FAM
+1 HUSB @I15@
+1 CHIL @I16@
+2 _FREL Natural
+0 @F4@ FAM
+1 HUSB @I4@
+1 CHIL @I5@
+2 _FREL Natural
+0 @F23@ FAM
+1 HUSB @I25@
+1 CHIL @I26@
+2 _FREL Natural
+0 @F12@ FAM
+1 HUSB @I12@
+1 CHIL @I13@
+2 _FREL Natural
+0 @F1@ FAM
+1 HUSB @I1@
+1 CHIL @I2@
+2 _FREL Natural
+0 @F20@ FAM
+1 HUSB @I20@
+1 CHIL @I21@
+2 _FREL Natural
+0 @F9@ FAM
+1 HUSB @I9@
+1 CHIL @I10@
+2 _FREL Natural
+0 @F17@ FAM
+1 HUSB @I17@
+1 CHIL @I18@
+2 _FREL Natural
+0 @F6@ FAM
+1 HUSB @I6@
+1 CHIL @I7@
+2 _FREL Natural
+0 @F25@ FAM
+1 HUSB @I28@
+1 CHIL @I27@
+2 _FREL Natural
+0 @F14@ FAM
+1 HUSB @I14@
+1 CHIL @I15@
+2 _FREL Natural
+0 @F3@ FAM
+1 HUSB @I3@
+1 WIFE @I23@
+1 CHIL @I4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F22@ FAM
+1 CHIL @I22@
+0 @F11@ FAM
+1 HUSB @I11@
+1 CHIL @I12@
+2 _FREL Natural
+0 @S6@ SOUR
+1 TITL Germanic Mythology
+0 @S1@ SOUR
+1 AUTH Snorri Sturluson
+1 TITL The Prose Edda
+1 PUBL Name: The Penguin Group; Location: England; Date: 2005;
+1 NOTE
+2 CONC Translated by Jesse L. Byock
+0 @S4@ SOUR
+1 TITL Wikipedia
+0 @N19@ NOTE
+1 CONC "The Saga of Bosi and Herraud," on the Germanic Mythology website, men
+2 CONC tions an Odinn as the father of Gauti.
+2 CONT
+2 CONT Based on known details, Odinn is likely Odin. This is because "The Sag
+2 CONC a of Bosi and Herraud" mentioned Odinn as a "King in Sweden" and his A
+2 CONC sian origins. Odin came to Sweden from Turkey in "The Prose Edda." Als
+2 CONC o Odinn is very similar to Óðinn, one of Odin's aliases.
+0 @N17@ NOTE
+1 CONC In Germanic Mythology's side-by-side view of "The Saga of Bosi and Her
+2 CONC raud," Hring was a king ruling over East Gautland.
+0 @N15@ NOTE
+1 CONC Wikipedia mentions that Gaut was the name of an ancestor or god to th
+2 CONC e Geats.
+0 @N13@ NOTE
+1 CONC Wikipedia notes that ᚢᚦᛁᚾ is Runic. This was recorded on the Ribe Skul
+2 CONC l Fragment.
+0 @N11@ NOTE
+1 CONC Wikipedia notes that Óðinn is Old Norse.
+0 @N9@ NOTE
+1 CONC Byock's translation of "The Prose Edda" recorded that Sibyl was also k
+2 CONC nown as Sif.
+0 @N7@ NOTE
+1 CONC Prologue 4 of Byock's translation of "The Prose Edda" stated that Odi
+2 CONC n was in Saxland for "a long time."
+0 @N5@ NOTE
+1 CONC Byock's translation of "The Prose Edda" listed Thor's name in Old Icel
+2 CONC andic.
+0 @N3@ NOTE
+1 CONC Byock's translation identified Tror with Thor. In that translation's i
+2 CONC ntroduction, Thor was the "second major god." Thor was mentioned a
+2 CONC s a god for "farmers and seamen." Thor also spawned names connected ba
+2 CONC ck to him: Thorgerd, Thorsness, and Thorsteinn.
+0 @N1@ NOTE
+1 CONC Prologue 3 lists a genealogy from Priam to Odin.
+2 CONT Prologue 4 marks Odin's journey from Turkey to Saxland.
+2 CONT Prologue 5 marks Odin's journey from Saxland to Reidgotaland to Sweden
+2 CONC .
+2 CONT Glossary of Names gives the translated names in Old Icelandic.
+0 @N18@ NOTE
+1 CONC Germanic Mythology's side-by-side view of "The Saga of Bosi and Herrau
+2 CONC nd" does not tell where Gauti was king.
+0 @N16@ NOTE
+1 CONC Wikipedia notes that Gautr was one of Odin's sons. This makes a confus
+2 CONC ion over if Gautr is Odin or his son.
+0 @N14@ NOTE
+1 CONC Wikipedia notes Wûtan is Old Bavarian.
+0 @N12@ NOTE
+1 CONC Wikipedia notes that Wōden is Old English.
+0 @N10@ NOTE
+1 CONC In the introduction to Byock's Translation of "The Prose Edda," Thor w
+2 CONC as also known as Donar, in southern Germanic lands.
+0 @N8@ NOTE
+1 CONC Byock's Translation of "The Prose Edda" made word that Sif's ancestr
+2 CONC y is unknown.
+0 @N6@ NOTE
+1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
+2 CONC d.
+0 @N4@ NOTE
+1 CONC Byock's translation of "The Prose Edda" labeled Reidgotaland as Jutlan
+2 CONC d.
+0 @N2@ NOTE
+1 CONC Priam was described as "the chief king" in Byock's translation of "Th
+2 CONC e Prose Edda."
+0 TRLR

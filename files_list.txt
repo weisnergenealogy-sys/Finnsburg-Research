@@ -6,6 +6,7 @@ burgundians_tribe.txt - Burgudian Tribal Dataset
 copying.txt - License File
 eangles_leads.txt - Leaders of the East Angles
 edda_chars.txt - "The Prose Edda" Character List
+edda_genealogy.ged - Genealogical Data Based on "The Prose Edda"
 esaxons_leads.txt - Leaders of the East Saxons
 finn_dict.txt - Dictionary Term: Finn
 franks_tribe.txt - Franks Tribal Dataset
