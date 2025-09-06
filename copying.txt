@@ -1,2 +1,3 @@
 License
-This Collection of research material is in the Public Domain.
+The original material in this collection of research material is in the Public Domain.
+Contains Works from other sources under different licenses.
